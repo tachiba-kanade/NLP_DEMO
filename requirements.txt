@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+spacy
+dateparser
+transformers
+torch
+flair
